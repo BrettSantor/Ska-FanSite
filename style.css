@@ -1,5 +1,6 @@
 * {
     font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+    text-align: center ;
 }
 
 header,
@@ -9,4 +10,23 @@ footer {
     line-height: 100px;
     color: white;
     background-color: black;
+
+}
+
+
+figure {
+    width: 200px;
+    margin: 0 auto;
+    background-color: white;
+}
+
+.highlighted-text {
+    font-weight: bold;
+    ;
+}
+
+#subscribe-section {
+    position: relative;
+    background-color: red
+    
 }
