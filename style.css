@@ -1,0 +1,12 @@
+* {
+    font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+}
+
+header,
+footer {
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+    color: white;
+    background-color: black;
+}
